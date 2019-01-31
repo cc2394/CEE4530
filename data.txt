@@ -1,4 +1,4 @@
-Time[s]  Concentration[mg/L]
+Time[s]	Concentration[mg/L]
 0	0
 1	2
 2	3
