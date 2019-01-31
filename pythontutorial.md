@@ -84,7 +84,7 @@ See [Selecting Subsets of Data in Pandas](https://medium.com/dunder-data/selecti
 Now we will display our figure in Markdown. To have the figure show up for anyone who opens this markdown file we will push the figure to github and then link to it there. To find the link in github, go to the code tab and then browse to the image.
 ![linear](https://github.com/cc2394/CEE4530/blob/master/linear.png)
 
-Figure 1: Captions are very important for figures. Captions go below figures.
+Figure 1: Concentration vs Time for a contaminant in a lake.
 
 $$ y=1.045 \times x + 0.6818 $$
 
