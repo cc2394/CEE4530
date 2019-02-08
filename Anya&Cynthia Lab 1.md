@@ -85,5 +85,5 @@ $\qquad 1095.2 \ g/L$
 $\\$
 7. Approximately what should the accuracy be for the density measurement?$\\$
 $\qquad $ The volumetric flask has an accuracy of +/- .08mL, so the accuracy for the density measurement would be .08%.$\\$
-8. Conclusions and on suggestions
+8. Conclusions and suggestions
 $\qquad $ The goal of Lab 1 was to learn about different laboratory measurements and procedures. We prepared a solution of NaCl using a mass balance and a volumetric flask. Additionally, we prepared dilutions of a red dye standard using pipettes and volumetric flasks. We then used a photometer to measure the absorbance of the red dye dilutions. We analyzed our photometry data using ProCoDa, and learned how to calibrate and use different sensors in ProCoDa. Using the data we collected, we created a linear regression relating absorbance and concentration. Two points, the 100mg/L and 200mg/L concentrations, were outside the detection limits of our sensor, so we excluded them from our linear regression. We had problems using the photometer, and we were getting a lot of air bubbles while using the syringe. We changed the angle of the tubing we used, and got better photometer reading. Overall, our data was relatively linear and we did not have many outliers.
