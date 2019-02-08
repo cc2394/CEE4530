@@ -76,7 +76,7 @@ Figure 1: Concentration vs Absorbance of a Red Dye Sample
 $$ y=0.0428 \times x + 0.4235 $$
 Questions:
 3. What is the value of the extinction coefficient, $\epsilon$?
-    $\qquad \epsilon=144 \\$
+    $\qquad \epsilon=.00353 \\$
 4. Did you use interpolation or extrapolation to get the concentration of the unknown?$\\ \qquad $ We didn't have time to take an unknown reading, but in theory, we would have used interpolation to find the concentration. $\\$
 5. What measurement controls the accuracy of the density measurement for the NaCl solution?
 $\qquad$ The volumetric flask measurement controls the accuracy of the density for the NaCl solution. The only tools used were a volumetric flask and a mass balance, and the mass balance is more accurate than the volumetric flask. The 100mL measurement controls the accuracy of the density of NaCl. $\\$
