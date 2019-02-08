@@ -2,7 +2,6 @@
 
 Cynthia Chu, Anya Sherman
 
-Graph of absorbance vs concentration
 
 ```python
   from aguaclara.core.units import unit_registry as u
@@ -69,6 +68,12 @@ Graph of absorbance vs concentration
   print(intercept)
   print(slope)
 ```
+
+![linear](https://github.com/cc2394/CEE4530/blob/master/lab1graph.png)
+
+Figure 1: Concentration vs Absorbance of a Red Dye Sample
+
+$$ y=1.045 \times x + 0.6818 $$
 Questions:
 3. What is the value of the extinction coefficient, $\epsilon$?
     $\qquad \epsilon=144 \\$
