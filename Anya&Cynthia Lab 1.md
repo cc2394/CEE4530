@@ -73,7 +73,7 @@ Cynthia Chu, Anya Sherman
 
 Figure 1: Concentration vs Absorbance of a Red Dye Sample
 
-$$ y=1.045 \times x + 0.6818 $$
+$$ y=0.0428 \times x + 0.4235 $$
 Questions:
 3. What is the value of the extinction coefficient, $\epsilon$?
     $\qquad \epsilon=144 \\$
